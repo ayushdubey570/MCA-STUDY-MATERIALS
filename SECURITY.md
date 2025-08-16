@@ -10,7 +10,7 @@ This policy applies to security vulnerabilities found within the following asset
 
 ### In Scope
 
-*   The main codebase of this repository (`https://github.com/zoxilsi/MCA-STUDY-MATERIALS`).
+*   The main codebase of this repository (`https://github.com/zoxilsi/MCA-STUDY-MATERIALS`)
 *   Any official documentation or websites directly associated with this project.
 
 ### Out of Scope
